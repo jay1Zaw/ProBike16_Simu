@@ -16,5 +16,10 @@ namespace ProBike16_Simu
         {
             InitializeComponent();
         }
+
+        private void spracheToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
